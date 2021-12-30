@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.third-person-bp-game-template-18319896.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "C:/Users/chris/Documents/Unreal Projects/Ring_DOCK11/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "C:/Users/chris/Documents/Unreal Projects/Ring_Project/Ring_DOCK11/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
